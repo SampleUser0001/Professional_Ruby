@@ -4,8 +4,8 @@
 
 | 項番 | タイトル |
 | :--- | :------- |
-| 001  | FizzBuzz |
-| 002  | format   |
+| 001  | [FizzBuzz](./001_FizzBuzz/fizz_buzz.rb) |
+| 002  | [format](./002_format_string/format_string.rb)   |
 
 ## 参考
 
