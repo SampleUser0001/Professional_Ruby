@@ -9,6 +9,7 @@
 | 003 | [true_false](./003_true_false/true_false.rb) |
 | 004 | [unless](./004_unless/use_unless.rb) |
 | 005 | [default_args](./005_default_args/default_args.rb) |
+| 006 | [endless_method](./006_endless_method/endless_method.rb) |
 
 ## 参考
 
